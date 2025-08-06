@@ -1,0 +1,3 @@
+
+my_words = ['apple', 'mirror', 'cloud', 'galaxy', 'blanket', 'tunnel', 'whisper', 'quartz', 'fire', 'moss', 'feather', 'canyon', 'pencil', 'orbit', 'shadow', 'thunder', 'lantern', 'gravel', 'ripple', 'shimmer', 'voyage', 'prism', 'velvet', 'blaze', 'cobweb', 'glacier', 'comet', 'branch', 'maple', 'bronze', 'spark', 'horizon', 'fossil', 'silence', 'willow', 'anchor', 'ladder', 'jungle', 'copper', 'storm', 'echo', 'turbine', 'crystal', 'raindrop', 'velvet', 'lantern', 'pine', 'summit', 'meadow', 'blaze', 'pebble', 'twilight', 'rocket', 'falcon', 'dune', 'clover', 'brook', 'drift', 'shield', 'geyser', 'magnet', 'riddle', 'blossom', 'bamboo', 'compass', 'nectar', 'marble', 'echo', 'timber', 'breeze', 'canyon', 'blaze', 'orbit', 'frost', 'silence', 'lante'
+            ]
